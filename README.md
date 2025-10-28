@@ -7,9 +7,9 @@ Tepi adalah daerah pada gambar di mana terjadi perubahan intensitas piksel yang 
 
  Penjelasan Baris demi Baris
 ---
-'''Import Library
+''' Import Library
 import cv2
-import numpy as np'''
+import numpy as np '''
 
 
 cv2 → modul dari OpenCV, digunakan untuk membaca, memproses, dan menampilkan gambar.
